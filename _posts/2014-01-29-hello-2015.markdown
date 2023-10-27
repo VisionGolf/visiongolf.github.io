@@ -2,73 +2,204 @@
 layout:     post
 title:      "Hello 2015"
 subtitle:   " \"Hello World, Hello Blog\""
-date:       2015-01-29 12:00:00
-author:     "Hux"
+date:       2023-10-28 12:00:00
+author:     "马万里"
 header-img: "img/post-bg-2015.jpg"
 catalog: true
 tags:
     - Meta
 ---
 
-> “Yeah It's on. ”
+> “第一本书 ”
 
 
-Hux 的 Blog 就这么开通了。
+[The Practice Manual ](#build) 
+THE ULTIMATE GUIDE FOR GOLFERS
 
-[跳过废话，直接看技术实现 ](#build) 
-
-2015 年，Hux 总算有个地方可以好好写点东西了。
-
-
-作为一个程序员， Blog 这种轮子要是挂在大众博客程序上就太没意思了。一是觉得大部分 Blog 服务都太丑，二是觉得不能随便定制不好玩。之前因为太懒没有折腾，结果就一直连个写 Blog 的地儿都没有。
-
-在玩了一段时间知乎之后，答题的快感又激起了我开博客的冲动。之前的[个人网站](http://huangxuan.me/portfolio)是作品集形式的（现在集成进来了），并不适合用来写博文，一不做二不休，花一天搞一个吧！
-
+"We love to support the passion from golf teachers and coaches who want to grow the game. Adam is definitely one who commits to continuous learning and making a difference. He believes that the coaching of the future in golf will include more than technical knowledge."
+Lynn Marriott & Pia Nilsson
+Co-Founders VISION54 
 
 <p id = "build"></p>
 
 ## 正文
 
-接下来说说搭建这个博客的技术细节。  
-
-正好之前就有关注过 [GitHub Pages](https://pages.github.com/) + [Jekyll](http://jekyllrb.com/) 快速 Building Blog 的技术方案，非常轻松时尚。
-
-其优点非常明显：
-
-* **Markdown** 带来的优雅写作体验
-* 非常熟悉的 Git workflow ，**Git Commit 即 Blog Post**
-* 利用 GitHub Pages 的域名和免费无限空间，不用自己折腾主机
-	* 如果需要自定义域名，也只需要简单改改 DNS 加个 CNAME 就好了 
-* Jekyll 的自定制非常容易，基本就是个模版引擎
+Author Biography
+Adam Young has worked at some of the most prominent facilities in the world, including being a teaching professional at the World famous Tumberry Resort, Scotland, and is currently (at the time of writing) residing in the Leadbetter Academy in La Manga Club - one of Europe's most esteemed resorts. Adam also has a business degree (AGMS, BA Hons) from the prestigious University of Birmingham, UK.
+With thousands of hours of teaching experience all over the world, from elite players to rank beginners, Adam has a very unique perspective on learning this insanely difficult game. Through experience with elite players, he has seen that there is more to great golf than simply technique; co-ordination, feel, understanding, strategy etc all play a role in maximizing your potential. And through experience with the average golfer, Adam knows that the greatest predictor in someone's success is down to how they practice, as well as their understanding of the task and the learning process.
+For these reasons, Adam started a blog (www.AdamYoungGolf.com) where he teaches more about the learning process - knowledge acquired from reading hundreds of books on motor learning, psychology, self-help, motivation, business, biology, genetics, consciousness etc. Adam also takes inspiration from the scientific literature on motor learning, as well as conducting experiments himself to improve his pupils further - as well as the golf industry. As a result, Adam's writing is popular with both teachers and players of this game, achieving over 100,000 views in just a couple of years. 
 
 
-本来觉得最大的缺点可能是 GitHub 在国内访问起来太慢，所以第二天一起床就到 GitCafe(Chinese GitHub Copy，现在被 Coding 收购了) 迁移了一个[镜像](http://huxpro.coding.me)出来，结果还是巨慢。
+Table of Contents
 
-哥哥可是个前端好嘛！ 果断开 Chrome DevTool 查了下网络请求，原来是 **pending 在了 Google Fonts** 上，页面渲染一直被阻塞到请求超时为止，难怪这么慢。  
-忍痛割爱，只好把 Web Fonts 去了（反正超时看到的也只能是 fallback ），果然一下就正常了，而且 GitHub 和 GitCafe 对比并没有感受到明显的速度差异，虽然 github 的 ping 值明显要高一些，达到了 300ms，于是用 DNSPOD 优化了一下速度。
+Introduction	19
+How to use this book	21
+Section 1 About Learning	23
+Chapter 1- Ball Flight Laws	25
+The goal of golf	25
+Law 1 - Heel/Toe strike	27
+Law 2 - Divot position	32
+Laws 3 and 4 - clubface and path	38
+Law 5 - Speed	54
+Law 6 - Loft	56
+Law 7 - Angle of Attack	58
+Spin loft	60
+Form vs function	61
+Summary	65
+Chapter 2 - Obstacles to Change	67
+Physiological conditioning	69
+Psychological elements	72
+Summary	80
+Chapter 3 - Technique Versus Skill	81
+What is technique?	81
+What is Skill?	84
+What is talent?	89
+Self-organizing	91
+When sell-organizing doesn't happen	97
+Authoritarian/command learning	105
+Balance	106
+Summary	107
+Chapter 4 - Locus of Attention	109
+Internal	110
+External process	 111
+External result	 113
+Neutral	 115
+Transcendental	117
+Short Summary	120
+PA coupling and Attention	121
+Dominant styles	127
+Uncontrolled manifold hypothesis	128
+In summary	129
+Chapter 5 - SIPFATS	131
+Skill / co-ordination	132
+Idea/Intention	 132
+Preparation	133
+Feedback	134
+Attention and Focus	135
+Technique	136
+Subconscious concept	137
+All inter-related	138
+A Specific example	139
+Summary	141
+Chapter 6 - The Uncontrolled Manifold Hypothesis.... 143
+Movement and the UCM	146
+Less moving parts = more consistency?	149
+How do we get better at this?	151
+How it all fits together	 151
+Summary	155
+Chapter 7 - Stages of Learning	157
+Unconscious incompetence	157
+Conscious Incompetence	159
+Conscious competence	160
+Unconscious competence	160
+Break the model	162
+How learning works	163
+Learning is not linear	166
+Lessons from Learning	170
+Summary	173
+Chapter 8 - Consistency	175
+Where does consistency come from?	176
+Range, pattern and tendency	182
+How to identify Range, pattern and tendency?	189
+How it all fits together	192
+Why do we need to be aware of this?	199
+Summary	201
+Chapter 9 - Performance Versus Learning	203
+Three choices	204
+Schizophrenic golf	207
+Performance and Learning	209
+The Confidence/Expectation/Perception cycle	215
+How does this all fit together?	221
+Summary	224
+Chapter 10 - Quantifiable Practice and Goal Setting ...225
+Weight Training Principles and Learning Golf	225
+Different types of Fitness, Different types of Practice	230
+Quantified practice	233
+Gamifying	236
+How to change task difficulty	239
+Goal Setting	245
+SMARTER Goals	248
+Summary	252
+Section 2 - Five Phase Training	255
+Section Introduction	257
+Chapter 11 - Direct Technical	259
+Address Impact Concepts and Awareness First	260
+Focus	261
+How to facilitate mechanical change	262
+How it all ties in	269
+Summary	272
+Chapter 12 - Experimental Practice	275
+Building a theory	276
+Differential Practice	279
+Variability practice	282
+Important note	283
+Differential Practice Drills	284
+More advanced differential practice drills	286
+Variability Practice drills	290
+How it all ties in	295
+Golfer's toolbox - a primer	298
+Summary	300
+Chapter 13 - Calibration	301
+A Wall of Skill	301
+The process	302
+Isolate Weakness	305
+Progressively Build	307
+Repeat the process	308
+Chipping and pitching	309
+Putting	312
+In conclusion	315
+Calibration Express	316
+Summary	317
+Chapter 14 — Performance Training	319
+Testing	320
+Variables to test - Execution Attention	322
+Strategic Variables	327
+The power of stats - an example	332
+Combining Strategy and Execution Attention	334
+Different scenarios	334
+Performance and learning	335
+Long term	336
+Summary	337
+Chapter 15 - Transference Training	339
+Flow states	339
+The routine	342
+Practicing the routine	347
+Games	347
+Putting games	348 
+Chipping games	350
+Full swing games	351
+On course Games	352
+How it all fits together	354
+Summary	  355
+Section 3 Periodization and Case Studies	357
+Chapter 16 - Periodization	359
+Seasonal Periodization	360
+Macro-Meso-Micro and Nano Cycles	363
+A shortened version	368
+Summary	370
+Case study 1 - Slicer	371
+Technical	371
+Experimental	372
+Calibration	373
+Performance	374
+Routine and games	374
+Periodization	375
+Flexibility	375
+Case Study 2 - Strike	377
+Technical	377
+Experimental	378
+Calibration	378
+Performance	379
+Routine and games	379
+Periodization	380
+Flexibility	380
+Case Study 3 - Aspiring College Player	381
+Technical	381
+Experimental	382
+Calibration	382
+Performance	383
+Routine	383
+Periodization	384
+Flexibility	385 
 
 
----
-
-配置的过程中也没遇到什么坑，基本就是 Git 的流程，相当顺手
-
-大的 Jekyll 主题上直接 fork 了 Clean Blog（这个主题也相当有名，就不多赘述了。唯一的缺点大概就是没有标签支持，于是我给它补上了。）
-
-本地调试环境需要 `gem install jekyll`，结果 rubygem 的源居然被墙了……后来手动改成了我大淘宝的镜像源才成功
-
-Theme 的 CSS 是基于 Bootstrap 定制的，看得不爽的地方直接在 Less 里改就好了（平时更习惯 SCSS 些），**不过其实我一直觉得 Bootstrap 在移动端的体验做得相当一般，比我在淘宝参与的团队 CSS 框架差多了……**所以为了体验，也补了不少 CSS 进去
-
-最后就进入了耗时反而最长的**做图、写字**阶段，也算是进入了**写博客**的正轨，因为是类似 Hack Day 的方式去搭这个站的，所以折腾折腾着大半夜就过去了。
-
-第二天考虑中文字体的渲染，fork 了 [Type is Beautiful](http://www.typeisbeautiful.com/) 的 `font` CSS，调整了字号，适配了 Win 的渣渲染，中英文混排效果好多了。
-
-
-## 后记
-
-回顾这个博客的诞生，纯粹是出于个人兴趣。在知乎相关问题上回答并获得一定的 star 后，我决定把这个博客主题当作一个小小的开源项目来维护。
-
-在经历 v1.0 - v1.5 的蜕变后，这个博客主题愈发完整，不但增加了诸多 UI 层的优化（opinionated）；在代码层面，更加丰富的配置项也使得这个主题拥有了更好的灵活性与可拓展性。而作为一个开源项目，我也积极的为其完善文档与解决 issue。
-
-如果你恰好逛到了这里，希望你也能喜欢这个博客主题。
-
-—— Hux 后记于 2015.10
