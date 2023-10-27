@@ -33,173 +33,339 @@ For these reasons, Adam started a blog (www.AdamYoungGolf.com) where he teaches 
 Table of Contents
 
 Introduction	19
+
 How to use this book	21
+
 Section 1 About Learning	23
+
 Chapter 1- Ball Flight Laws	25
+
 The goal of golf	25
+
 Law 1 - Heel/Toe strike	27
+
 Law 2 - Divot position	32
+
 Laws 3 and 4 - clubface and path	38
+
 Law 5 - Speed	54
+
 Law 6 - Loft	56
+
 Law 7 - Angle of Attack	58
+
 Spin loft	60
+
 Form vs function	61
+
 Summary	65
+
 Chapter 2 - Obstacles to Change	67
+
 Physiological conditioning	69
+
 Psychological elements	72
+
 Summary	80
+
 Chapter 3 - Technique Versus Skill	81
+
 What is technique?	81
+
 What is Skill?	84
+
 What is talent?	89
+
 Self-organizing	91
+
 When sell-organizing doesn't happen	97
+
 Authoritarian/command learning	105
+
 Balance	106
+
 Summary	107
+
 Chapter 4 - Locus of Attention	109
+
 Internal	110
+
 External process	 111
+
 External result	 113
+
 Neutral	 115
+
 Transcendental	117
+
 Short Summary	120
+
 PA coupling and Attention	121
+
 Dominant styles	127
+
 Uncontrolled manifold hypothesis	128
+
 In summary	129
+
 Chapter 5 - SIPFATS	131
+
 Skill / co-ordination	132
+
 Idea/Intention	 132
+
 Preparation	133
+
 Feedback	134
+
 Attention and Focus	135
+
 Technique	136
+
 Subconscious concept	137
+
 All inter-related	138
+
 A Specific example	139
+
 Summary	141
+
 Chapter 6 - The Uncontrolled Manifold Hypothesis.... 143
+
 Movement and the UCM	146
+
 Less moving parts = more consistency?	149
+
 How do we get better at this?	151
+
 How it all fits together	 151
+
 Summary	155
+
 Chapter 7 - Stages of Learning	157
+
 Unconscious incompetence	157
+
 Conscious Incompetence	159
+
 Conscious competence	160
+
 Unconscious competence	160
+
 Break the model	162
+
 How learning works	163
+
 Learning is not linear	166
+
 Lessons from Learning	170
+
 Summary	173
+
 Chapter 8 - Consistency	175
+
 Where does consistency come from?	176
+
 Range, pattern and tendency	182
+
 How to identify Range, pattern and tendency?	189
+
 How it all fits together	192
+
 Why do we need to be aware of this?	199
+
 Summary	201
+
 Chapter 9 - Performance Versus Learning	203
+
 Three choices	204
+
 Schizophrenic golf	207
+
 Performance and Learning	209
+
 The Confidence/Expectation/Perception cycle	215
+
 How does this all fit together?	221
+
 Summary	224
+
 Chapter 10 - Quantifiable Practice and Goal Setting ...225
+
 Weight Training Principles and Learning Golf	225
+
 Different types of Fitness, Different types of Practice	230
+
 Quantified practice	233
+
 Gamifying	236
+
 How to change task difficulty	239
+
 Goal Setting	245
+
 SMARTER Goals	248
-Summary	252
+
+SUMMERY   252
+
 Section 2 - Five Phase Training	255
+
 Section Introduction	257
+
 Chapter 11 - Direct Technical	259
+
 Address Impact Concepts and Awareness First	260
+
 Focus	261
+
 How to facilitate mechanical change	262
+
 How it all ties in	269
+
 Summary	272
+
 Chapter 12 - Experimental Practice	275
+
 Building a theory	276
+
 Differential Practice	279
+
 Variability practice	282
+
 Important note	283
+
 Differential Practice Drills	284
+
 More advanced differential practice drills	286
+
 Variability Practice drills	290
+
 How it all ties in	295
+
 Golfer's toolbox - a primer	298
+
 Summary	300
+
 Chapter 13 - Calibration	301
+
 A Wall of Skill	301
+
 The process	302
+
 Isolate Weakness	305
+
 Progressively Build	307
+
 Repeat the process	308
+
 Chipping and pitching	309
+
 Putting	312
+
 In conclusion	315
+
 Calibration Express	316
+
 Summary	317
+
 Chapter 14 — Performance Training	319
+
 Testing	320
+
 Variables to test - Execution Attention	322
+
 Strategic Variables	327
+
 The power of stats - an example	332
+
 Combining Strategy and Execution Attention	334
+
 Different scenarios	334
+
 Performance and learning	335
+
 Long term	336
+
 Summary	337
+
 Chapter 15 - Transference Training	339
+
 Flow states	339
+
 The routine	342
+
 Practicing the routine	347
+
 Games	347
+
 Putting games	348 
+
 Chipping games	350
+
 Full swing games	351
+
 On course Games	352
+
 How it all fits together	354
+
 Summary	  355
+
 Section 3 Periodization and Case Studies	357
+
 Chapter 16 - Periodization	359
+
 Seasonal Periodization	360
+
 Macro-Meso-Micro and Nano Cycles	363
+
 A shortened version	368
+
 Summary	370
+
 Case study 1 - Slicer	371
+
 Technical	371
+
 Experimental	372
+
 Calibration	373
+
 Performance	374
+
 Routine and games	374
+
 Periodization	375
+
 Flexibility	375
+
 Case Study 2 - Strike	377
+
 Technical	377
+
 Experimental	378
+
 Calibration	378
+
 Performance	379
+
 Routine and games	379
+
 Periodization	380
+
 Flexibility	380
+
 Case Study 3 - Aspiring College Player	381
+
 Technical	381
+
 Experimental	382
+
 Calibration	382
+
 Performance	383
+
 Routine	383
+
 Periodization	384
+
 Flexibility	385 
-
-
