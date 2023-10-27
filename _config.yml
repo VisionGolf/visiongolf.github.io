@@ -1,6 +1,6 @@
 # Site settings
-title: GOLF BOOKS
-SEOTitle: 马万里的读书博客 | WANLI READING
+title: 马万里的读书博客
+SEOTitle: GOLF READING | WANLI MA
 header-img: img/home-bg.jpg
 email: wanlima@gmail.com
 description: "这里是 @wanlima 的个人博客，读书让你思想插上翅膀 | 打开高尔夫世界的窗户"
@@ -59,7 +59,7 @@ kramdown:
       start_line: 1
 
 # Disqus settings
-disqus_username: hux
+disqus_username: VISIONGOLF
 
 # Netease settings
 netease_comment: false
@@ -70,11 +70,11 @@ netease_comment: false
 
 # Google Analytics
 ga_track_id: "UA-49627206-1" # Format: UA-xxxxxx-xx
-ga_domain: huangxuan.me
+ga_domain: visiongolf.cn
 
 # Sidebar settings
 sidebar: true # whether or not using Sidebar.
-sidebar-about-description: "要做一个有 swag 的程序员 <br> React Team @ Meta"
+sidebar-about-description: "读书让你思想插上翅膀 | 打开高尔夫世界的窗户"
 sidebar-avatar: https://github.com/Huxpro.png # use absolute URL, seeing it's used in both `/` and `/about/`
 
 # Featured Tags
@@ -88,15 +88,4 @@ service-worker: true
 # MathJax rendering for layout:page (e.g. post preview)
 page-mathjax: false
 
-# Friends
-friends:
-  [
-    { title: "乱序（Midare）", href: "http://mida.re/" },
-    { title: "Ebn Zhang", href: "https://ebnbin.dev/" },
-    { title: "Kun Qian", href: "http://kunq.me" },
-    { title: "Sherry Woo", href: "https://sherrywoo.me/" },
-    { title: "SmdCn", href: "http://blog.smdcn.net" },
-    { title: "JiyinYiyong", href: "http://tiye.me/" },
-    { title: "DHong Say", href: "http://dhong.co" },
-    { title: "尹峰以为", href: "http://ingf.github.io/" },
-  ]
+
