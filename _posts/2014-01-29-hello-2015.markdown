@@ -1,7 +1,7 @@
 ---
 layout:     post
-title:      "Hello 2015"
-subtitle:   " \"Hello World, Hello Blog\""
+title:      "The Practice Manual"
+subtitle:   " 1/20"
 date:       2023-10-28 12:00:00
 author:     "马万里"
 header-img: "img/post-bg-2015.jpg"
@@ -13,24 +13,28 @@ tags:
 > “第一本书 ”
 
 
-[The Practice Manual ](#build) 
+##[The Practice Manual ](#build) 
+
 THE ULTIMATE GUIDE FOR GOLFERS
 
 "We love to support the passion from golf teachers and coaches who want to grow the game. Adam is definitely one who commits to continuous learning and making a difference. He believes that the coaching of the future in golf will include more than technical knowledge."
+
 Lynn Marriott & Pia Nilsson
+
 Co-Founders VISION54 
 
 <p id = "build"></p>
 
-## 正文
+##Author Biography
 
-Author Biography
 Adam Young has worked at some of the most prominent facilities in the world, including being a teaching professional at the World famous Tumberry Resort, Scotland, and is currently (at the time of writing) residing in the Leadbetter Academy in La Manga Club - one of Europe's most esteemed resorts. Adam also has a business degree (AGMS, BA Hons) from the prestigious University of Birmingham, UK.
+
 With thousands of hours of teaching experience all over the world, from elite players to rank beginners, Adam has a very unique perspective on learning this insanely difficult game. Through experience with elite players, he has seen that there is more to great golf than simply technique; co-ordination, feel, understanding, strategy etc all play a role in maximizing your potential. And through experience with the average golfer, Adam knows that the greatest predictor in someone's success is down to how they practice, as well as their understanding of the task and the learning process.
+
 For these reasons, Adam started a blog (www.AdamYoungGolf.com) where he teaches more about the learning process - knowledge acquired from reading hundreds of books on motor learning, psychology, self-help, motivation, business, biology, genetics, consciousness etc. Adam also takes inspiration from the scientific literature on motor learning, as well as conducting experiments himself to improve his pupils further - as well as the golf industry. As a result, Adam's writing is popular with both teachers and players of this game, achieving over 100,000 views in just a couple of years. 
 
 
-Table of Contents
+##Table of Contents
 
 Introduction	19
 
