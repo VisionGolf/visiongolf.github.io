@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "The Practice Manual"
+title:      "1/20 The Practice Manual"
 subtitle:   " 1/20"
 date:       2023-10-28 12:00:00
 author:     "马万里"
@@ -10,7 +10,7 @@ tags:
     - Meta
 ---
 
-> “第一本书 ”
+> “1/20 ”
 
 
 ##[The Practice Manual ](#build) 
@@ -25,7 +25,7 @@ Co-Founders VISION54
 
 <p id = "build"></p>
 
-##Author Biography
+#Author Biography
 
 Adam Young has worked at some of the most prominent facilities in the world, including being a teaching professional at the World famous Tumberry Resort, Scotland, and is currently (at the time of writing) residing in the Leadbetter Academy in La Manga Club - one of Europe's most esteemed resorts. Adam also has a business degree (AGMS, BA Hons) from the prestigious University of Birmingham, UK.
 
@@ -34,7 +34,7 @@ With thousands of hours of teaching experience all over the world, from elite pl
 For these reasons, Adam started a blog (www.AdamYoungGolf.com) where he teaches more about the learning process - knowledge acquired from reading hundreds of books on motor learning, psychology, self-help, motivation, business, biology, genetics, consciousness etc. Adam also takes inspiration from the scientific literature on motor learning, as well as conducting experiments himself to improve his pupils further - as well as the golf industry. As a result, Adam's writing is popular with both teachers and players of this game, achieving over 100,000 views in just a couple of years. 
 
 
-##Table of Contents
+#Table of Contents
 
 Introduction	19
 
