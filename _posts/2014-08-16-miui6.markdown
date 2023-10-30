@@ -9,47 +9,314 @@ tags:
     - book reading
 
 <div>
-    <blockquote>MIUI 6，充满了“借鉴”，iOS 7 版的 Android……
-        <br>米 4，碉堡了，不服跑个分，简直就是 iPhone 4……</blockquote>你们说得这些我一点都不反对。
-    <br>
-    <br><b>可是，你们对小米的要求太高了</b>。
-    <br>
-    <br>其实小米说到底也不过是一个才初创4年的公司而已，
-    <br><b>你是指望小米能引领一套新的设计风格？</b>
-    <br><b>还是指望它能在国际上体现一下我国的自主创新能力？</b>
-    <br>
-    <br>你想太多了。
-    <br>
-    <br>更何况，<b>MIUI也不是没有设计</b>，它比很多国内，国际大厂的ROM好看好用太多了。
-    <br>它只是没有多少新设计而已， iOS 7 的视觉，混着大部分 Android ＋ WP 的交互。也不知道是因为确实欣赏 Android 的一些交互，还是因为毕竟是基于 Android 懒得改了。
-    <br>
-    <br><b>因为没有一个背后的设计思想在支撑，于是它就把所有自己觉得好，觉得会被认可的东西抄过来了而已。</b>
-    <br>
-    <br><b>这思路一点问题都没有，</b><b>大部分用户一定会觉得更好看了</b>，国际范儿又有设计感。最多是少数圈内人士（包括我），那群也不真正买它手机用的人，在那愤愤不平而已。
-    <br>
-    <br><b>自立门派风险太大了。</b>
-    <br><b>MI 4 的配置 + MIUI 6，在这个价位几乎是无敌的，这就够了。</b>
-    <br>
-    <br>至于官方说的什么“糖果式”设计，那简直就是笑话。跟 Ive 的 iOS 7 或是 Material Design，Metro 所设计之设计，完全不在一个高度上。
-    <br>
-    <br>
-    <br>其实有的时候觉得小米很像腾讯（尤其是更早些年的腾讯）。
-    <br><b>其实本来也就不是什么创新者的角色，那就做借鉴和整合呗。</b>
-    <br>
-    <br>用户喜欢什么，
-    <br>公司需要什么，
-    <br>大众流行什么，
-    <br>那我们就做呗。
-    <br>
-    <br><b>拿下市场才是第一位的，不出错才是第一位的</b>。
-    <br><b>先做大了才有可能去做更大的事啊</b>。
-    <br>
-    <br>老罗再有情怀，锤子要是死了，那也就这么死了。
-    <br>
-    <br>你指责小米没有多少创新，或是腾讯老是山寨 start up ，我同意，我陪你愤愤不平，可是又有什么意思呢。
-    <br>
-    <br>它们这么做，对现有公司发展来说，
-    <br><b>简直是一点错都没有。</b>
-    <br>
-    <br>
+    Section 1
+About
+Learning 
+ 
+Chapter 1
+Ball Flight laws
+The goal of golf
+Whilst it should seem very obvious, the goal of golf is to get the ball in the hole in as few strokes as possible. Our job is to project the ball towards the target in the most efficient way possible, whilst avoiding obstacles and judging the environment. This requires a combination of our physical skills and mental strategies (with a little luck thrown in). Ball flight laws deal with the physical skills/techniques required to hit the ball efficiently and effectively.
+The ball is an inanimate object; it cannot see how pretty your swing looks, or how tall you are, how much you weigh, or whether you have been playing well or poorly. It knows and responds to one thing - impact. From the moment the clubhead strikes the ball to the moment they separate, the ball collects all the information it needs to determine which direction, what distance and what trajectory to take. If the clubhead strikes the ball with 100mph of swing speed, in the centre of the face, with the same loft, clubface angle and swing path, it will go in the same place regardless of whether it was Tiger Woods hitting, or a headless chicken on a surfboard. It is very important that you understand this.
+Ball flight laws are the most important information that every player should have at least a reasonable level of knowledge of. As teachers, we all have a great understanding (or should have) of these and how they affect the golfball. It is this information which helps us decide what element of your swing to change.
+During this chapter, I will describe the most important factors affecting where your golf ball goes, and show you how you can identify what you are doing in your own swing. With this knowledge, you will begin to be able to teach yourself. It will help you fix faults quicker and take an ownership of your game like never before. Any lesson you have will be much more effective as you can now relate what your teacher is trying to get you to do with the ball flight law you are trying to improve. It will essentially de-mystify golf.
+Declarative and procedural Knowledge
+Every good/great player has an understanding of the ball flight laws, even if they do not realize it. Some players are very aware of them, and know exactly how they affect the ball. But some players have more of a covert knowledge; it is subconsciously (implicitly) understood. What do I mean by this exactly? Well, some good players are able to change the ball flight (for example, going from a fade to a draw intentionally), without realizing what it is exactly they are changing. This is called procedural knowledge - where you know what to do but may not be able to describe it. This is opposed to declarative knowledge - where you can describe what to do but perhaps cannot do it.
+Having procedural knowledge without declarative is arguably better, as you are not thinking too analytically about how to control your ball. However, to get to this stage of understanding can take many years of practice and most people never actually get there. I prefer to educate my pupils fully on ball flight laws theoretically, as it can rapidly speed up the learning of them physically. And eventually, once learned, the knowledge will become subconscious also, so you will be able to perform them without thinking about them too hard, or through pure 4feel\
+For example, a player struggling with a slice clearly does not understand the laws of path and face (which we will get into in due time). By having a clearer understanding of these laws, it can greatly influence the speed at which they control, limit or eliminate their slice. Often the understanding of the laws of path and face alone can result in an instant transformation, but even if this is not the case, the knowledge they now possess will open the door to a more speedy recovery from slicing.
+Without this knowledge, the same slicer could take many years before they cure it. Or, like many clients I have seen, they can go their entire golfing careers hitting the shot they hate over and over again. Often, simplifying what the person is trying to achieve at impact and working on ways to achieve it which suit them can have a profound effect on their game. It is a massive delight to me when a slicer of 25 years comes to me for their first lesson and I can help them hit their first draw in minutes. The look of amazement on their eyes as the ball curves left and flies further than before with a more powerful 'thwack' is one of the main reasons I am a golf coach.
+The knowledge here is a starting point; it is through taking this information and applying it to your own game through technique changes and experimentation/exploration of the factors detailed, that you will be able to improve your golf. So without further delay, let us look at the factors at impact that affect how good your golf shot is. Knowing this is going to make every 
+practice session you have far more productive. For a good player who thinks they are beyond this knowledge, revising it is never a bad thing. And exactly how good are you at controlling these laws?
+Pay attention!
+
+Law 1 - Heel/Toe strike
+Arguably the most important law of all is where you strike the ball on the clubface regarding toe/heel The below image describes what the toe and heel of a club is. 
+
+With modern day technology, club heads have become bigger and more forgiving. What this means is that a strike on the toe or heel will lose less distance and feel better. Go back 50 years and you would have a much more dramatic distance loss for the same error. Similar things have happened in other sports, such as tennis racquets becoming lighter, bigger and more forgiving.
+So what happens when we hit the toe or the heel? The first thing that happens is it feels horrid. The clubhead will twist at impact and you will get a lot of vibration shooting up the shaft of the club and into your hands. Beginners will usually complain that they lost their grip through impact - leading them to 27 
+tighten their grip next time they make a swing. A more experienced player will usually understand that the loss of grip was due to a mis-strike rather than poor grip strength. The most notable thing that happens when you miss the middle of the club towards either the toe or the heel is the loss of distance. Missing the middle of the club by even a quarter of an inch can lose you a substantial amount of distance and control. Missing by 3 inches or more will likely result in an air shot.
+On the other hand, if you hit the centre of the club (or sweet spot as it is more commonly referred), the ball will fly in the air every time, will travel a longer distance (all other factors being equal) and will feel great at impact. You will hear a nicer sound at impact and the club will not vibrate or twist in your hands. Usually players report that it feels like they didn't hit the ball at all, or were swinging through air. This factor alone can greatly improve your golf game and massively improve your enjoyment. In fact, sometimes when a player walks off the golf course with a bad score they can still be delighted with the fact that most of their shots "felt nice9 today. You have probably heard this being reported at the 19th hole.
+This law is so important because, without it, you cannot achieve consistent distance, direction or control. Whilst every player swings the club differently, has a different set up, grip, posture, motion etc, all good and great players abide by this law. There is a clear correlation between how good a player is and how consistent their strike pattern is. So if there is one skill/technique that is important to develop fully, this is definitely a good candidate.
+How do I know if I am doing it?
+You should know instantly if you have hit it off-centre. A loss of distance and poor feel are usually the biggest clues. However, it can be a massive disadvantage if you don't know whether you have hit the toe or the heel when you have a poor shot.
+Hitting the sweet spot is learning in itself; the brain tries to remember the act that lead to the good strike by releasing these pleasurable emotions to speed up learning that motor program. But it is important to take advantage of knowing what went wrong. If every time you miss the sweet-spot you look around in confusion at what happened, you are missing out on a big chunk of learning. The majority of players I teach fall into this category. A mis-hit shot goes offline and loses distance. After a bit of confusion, they automatically look to their swing mechanics, when the fault lies simply in the strike upon the clubface.
+Whenever a good player misses the sweet-spot, they will know exactly where on the clubface they have hit. An average player may be able to tell you whether it was heel or toe, but a tour player's feel is so refined that they could tell you to the nearest millimetre where it was on the face. This allows them to make a change - the correct one - through their technical knowledge, or through pure instinct. For example, if I accidentally hit a couple of shots from the heel side of the club, if it becomes a pattern I will try to hit more towards the toe side of the club until I find the centre. Whilst this could be seen as a compensation for a swing flaw, it is a trait that every top player shares, whether they are aware of it or not.
+For these reasons, it is important to understand what you are doing. Is there a pattern or a common error to your shots, or is it completely random? Rarely do I see a player who is completely random with their strikes; mainly complete beginners or people who don't practice much fall into this category. Most players I see have a very definite pattern; either a toe dominant strike or a heel dominant strike. That is not to say these players never hit the centre, but the majority of their mis-strikes fall into the same error category. Again, these players can sometimes hit both sides of the club, as even the best players in the world do. But the occasional toe strike amongst predominantly heel and centre strikes must be classed as an anomalous result; the exception not the rule.
+Whilst there are spray cans to spray your clubface, or specially designed face tapes to measure this, using a marker pen is one of the easier and cheaper ways to check your pattern. Get a water-based marker pen (dry erase) and draw a dot on the back of the golfball. Tee it up with the dot facing away from the target in a position that will leave a mark on the clubface when you strike the ball (see below images). By doing this, you can then easily check where the mark is on the clubface and hence where you have struck the ball. Do this ten or twenty times and you should start noticing a pattern occur. A better pattern is one that is smaller in range, and obviously closer to the middle. 
+ 
+Mark the ball with the dry erase marker
+ 
+Place the ball on the ground/tee as shown, with the dot facing away from the target. 
+
+As you hit each shot, take note of the sound, the flight and the feel of the shot. Try to guess which side you have hit from before looking at the marker pen mark. As you get better at guessing, it starts to become instinctive. 1 have developed this skill to a point that I can turn my back on a pupil and tell where they have hit on the clubface purely by the sound of the shot (not that I do that, it would be rude to turn my back on a pupil). You too can develop this kind of awareness, and it is very important that you do. Soon you will be able to identify the clues of both a heel and a toe strike. It is difficult to put into words how it sounds or feels, as everyone will perceive it differently. But here is a short table of common identifiers.
+Heel shot
+club twists open (to the right)	Club twists closed (to the left)
+A dull 'thud' sound	     A higher pitched ‘click’ sound 
+
+Ball goes to the right	Ball goes either dramatically right or sometimes left (in a more extreme case)
+Feds very  'heavy' at impact
+Ball has tendency to start right and curve more left, especially with woods	Feels ‘lighter’ at impact
+Ball has tendency to start more left and curve right, especially with woods
+
+Law 2 - Divot position
+The most common fault I see with beginners to intermediate players is their lack of ability to create a divot in the right place. Whilst in the last law we looked at strike in a left/right dimension, now we look at it in terms of up/down and forward/backwards dimensions. Don't worry, this is not a case of needing to understand multiple dimensions of space, you only need to understand one thing;
+Every good player hits the ground in the correct place in relation to the golf ball
+let's explore this idea further by breaking down the above quote.
+Every good player hits the ground
+With the exceptions of a driver (as it is placed on a high tee) and a putter (please don't start taking chunks out of your greens), every good player hits the ground to some extent. Some players take deep divots, other players barely touch the grass, picking the ball cleanly from the turf. But each of these players is hitting the ground, either a lot or a little. It is important that I make this point, because amongst all of the players I see for lessons, a large proportion believes that hitting the ground or making a divot is an incorrect thing to do. Watch a professional tournament and see that the best players in the world are taking divots with every iron shot they hit, sometimes even with a wood when it is on the floor. You will see the player walk forward, and then throw the divot back to the caddy to stamp down in place. At the very minimum, they are cutting the grass - hitting the middle of the blade of grass as opposed to skimming the top.
+Which way is best, a deep divot or shallow one? Unfortunately it all depends on context. The turf you are playing from, the lie that you have, the shot you wish to produce, the club you are using etc are all factors that have to be taken into account before you decide. As a general rule, a medium depth divot of between a quarter of an inch and half an inch deep would be suitable most of the time. With a shorter club, the divots can be a little deeper, with a longer club, such as a 5 wood, we would tend to brush the grass more. This has more to do with the design of the club than the player having a drastically different intention.
+I tell every pupil, it is all about trade-offs in terms of what is better. A deeper divot may offer a lower, more powerful ball flight. A deeper divot is also more beneficial for getting out of poor lies too, due to the impact physics which create it.
+A shallow divot maker, on the other hand, will tend to produce more consistent distance control, and if they hit the ground in the wrong place, it tends to be much more forgiving than a deeper divot maker producing the same mistake. Fat shots, in particular, tend to go further with this technique, as the player is not taking so much turf. However, the cost of this an inability to hit from poor lies, more thin and top shots.
+But the message is clear, whether a player makes a deep divot, or brushes the grass, all great players hit the ground. The divot depth is largely a personal choice and is usually a product of the environment a player learned their golf on. Links players tend to be deeper divot makers, and parkland players tend to produce shallow divots. But in order to be a complete player, you cannot be so one dimensional. You have to explore all possibilities as, at some point, you will need them during the course of a round of golf. Although this commonality is shared amongst all good players, without the next piece of advice, it is not going to make you a better player. With this piece of advice, it will send your game to a much higher level;
+In the right place
+Hitting the ground is not enough on its own. You have to hit the ground in the right place to be successful. The major mistake people make when taking divots is to make the divot too far behind the golfball (or a fat shot - see image below).
+ 
+When a player makes this mistake, the result is often so poor that their subconscious mind quickly links up divot = bad. This is a very unfortunate thing to happen, as what ensues is a player trying to avoid making a divot at all and developing a large amount of frustration at their poor strikes and constant topping of the ball. The ideal place is for the divot to start is after the ball, as shown below 
+
+I read somewhere that the average amateur strikes 10 centimetres behind the ball, and we wonder why our golf is in such a dire state! Striking 10 centimetres behind the ball is never going to work; a little too low and you will hit an awful fat shot, a little too high and a top will ensue. Ifs not that you are moving up and down too much, it's purely that you are hitting the ground in the wrong place, or not at all.
+How do I know if I am doing this correctly?
+The way to check this (and this is also a great way to practice) is to get some sort of feedback on where you are hitting the ground. Normally for my pupils, my trusty spray paint can comes out. I draw a quick spray paint line on the ground, and place a few golfballs on the line. Asking the pupil to make a divot for each ball with a 7 iron, we can quickly see how successful they are at this skill (see images below). We can then work on technique drills, or pure skill and awareness to improve this element of their impact. Other alternatives for this are to place two tees or coins down to represent the line, anything that gives you a good reference point of where the divot is in relation to where the ball was. You can even do this drill on the golf course, so your learning never stops.
+Please be warned, this is not an easy thing to do. It takes many months or even years to develop to the point of making a divot on the line almost every time. In fact, the professionals do not do it perfectly every time, although their mistakes are not only fewer but smaller in error. In learning this, you will likely make several bad shots, especially if you are not used to normally taking a divot. But as your divot pattern gets closer to the correct pattern, your game will take a massive leap forwards. There are not many secrets to good golf  but if there are, this law and the first law are as close as it gets. The better you get at the first two laws, the better a golfer you will be - guaranteed.
+ 
+The above picture shows 3 balls resting on a paint line, with the target in the same direction as the white arrow 
+ 
+The above picture shows the divots made after hitting the shots. Divot 1 is a thin
+shot, as there is no divot or grass cutting. Divot 2 is an example of a fat shot,
+where the divot starts behind where the ball was resting. Divot 3 is the correct
+divot, as it starts where the ball was resting and extends forwards
+If you have to practice indoors, or on a range mat, there is also a way to practice this skill. You can place a very thin towel behind the golf ball and hit shots making sure you make contact with the range mat. If you are to strike too far behind the ball, the towel will move/fly away. But if you strike the mat correctly, the towel will remain in place and you will hear a nice click of the golf ball. Take it easy, and try to have the towel about 10 cm behind the ball at first, and gradually get it closer to the ball as you get better (but always leave some room between the ball and towel for the sole of the club to slot in). 
+ 
+Place a thin towel 10-12cm (about 5 inches) behind the ball to starts. Make sure
+your club brushes the mat when hitting the ball, without touching or moving the
+towel. You can use guitar plectrums under the ball to check if your club has
+touched the ground, as they will fly away if successful. 
+ 
+As you improve, get the ball closer to the towel. Make sure you give enough
+room for the sole of the club to hit the ground without touching the towel. By
+replacing the ball with a guitar plectrum, you can also practice indoors or in a
+small space.
+
+Laws 3 and 4 - clubface and path
+I have decided to unite the 3,d and 4th laws, as they are inextricably linked to direction. Whilst the first two laws are 'musts', laws 3 and 4 are only major influencers. Better players are just better at these laws, but there are players who fall outside the mould. It is not unheard of to see a top player with a relatively poor path, for example, although it is a lot less common at the higher levels. However, it is absolutely unheard of to see a tour professional who is poor at law 1 and 2. Whilst laws 1 and 2 relate directly to strike quality, the next 2 laws relate to direction, although they also have an influence on distance and distance control.
+Clubface refers to where the clubface is aiming at impact. As shown below, the clubfoce can either be aiming left (closed), right (open) or straight (square) when it hits the ball. Clubface is the largest determinant of where a golf ball goes, and becomes more influential the less loft is on the club. It not only is the major influence in starting direction of the ball, but it will have a big play in where the ball ends up.
+ 
+The above is a picture of a square clubface (square to the target). 
+ 
+The above is an example of a closed clubface (closed to the target).
+ 
+The above is an example of an open face (open to the target).
+Path refers to the direction that the club is swinging through impact. As shown in the images below, a club can either swing to the left (out to in), to the right (in to out) or square (in to square to in). I rarely talk about a straight swing path with players, especially beginners, as it sends the wrong message for what a swing should look like (an arc). I usually work with telling a player to feel like they swing 'more right' or 'more left' depending on their fault. It is important to note that we cannot identify swing path accurately via our divot, but the feeling described can help to balance out a player's faults.
+Path has a smaller influence on the starting direction of the golf ball. The more left the path is, the more left the ball will start, and vice versa. This is more influential in clubs with higher lofts, although it is much less influential than clubface on both starting direction and overall finishing position of the ball.
+ 
+The above picture shows an example of an in-to-out swing path, or a path where the club travels too far right of the target line (thin white line) 
+ 
+The above picture is an example of a common out-to-in swing path, where the club travels to the left of the target line through impact.
+ 
+The above picture shows an example of a square swing path, where the club arcs
+from inside the target line, travels down the target line through impact before
+arcing back inside the target line again.
+Combination of path and face
+
+I have already stated that the clubface is more influential than the path in determining shot direction. Ultimately though, it is the combination of face and path which create the direction of a shot. If the clubface and path are in the same direction, we will have a ball with no curvature on it. So the 'ideal' situation to have would be where the path direction is straight towards the target, and the clubface is square to the path. This would produce a ball which flies towards the target with no curve left or right. This is seen in the image below;
+ 
+The above picture shows a square path with a club face which is also square to it - launching the ball on-line. 
+ 
+The resulting shot is one which starts and flies towards the target with no curve.
+
+If the swing path is 10 degrees to the right of the target, and the clubface is 10 degrees to the right also, the ball will fly 10 degrees to the right with no curve left or right. This is seen below
+ 
+In the above picture, the path and clubface are both 10 degrees to the right 
+ 
+The resultant shot is a 10 degree push, as shown in the above birds-eye picture.
+
+The opposite is also true. A path that aims 10 degrees left with a clubface that is 10 degrees left will send the ball 10 degrees left with no curve left or right.
+Separation of path and face
+
+Now it gets more complicated - infinitely more complicated in fact. The possibilities become endless. What happens when the clubface and path are not in the same direction? They are two separate elements of impact, so do not necessarily have to be together.
+The most functionally accurate description of what happens is;
+The ball will start 75% towards where the clubface is pointing at impact, and 25% towards the swing path direction.
+Let's look at an example of where the clubface is 10 degrees open (to the right) of the swing path.
+ 
+In the above picture, the swing path is square through impact, but the clubface is
+10 degrees open (right of) the path.
+
+Our theoretical player has made a good motion and has managed to make their path in the right direction - towards the target. However, for whatever reason, they have left the clubface 10 degrees to the right of the target at impact. The clubface is therefore 10 degrees open to the swing path. In this case, the ball will start roughly 75% closer to the clubface direction (7.5 degrees right). The clubface has the dominant say in the balls initial direction, although the path has influenced it a little. However, the story does not stop there. As there is a difference between the path and the face, the ball will have sidespin (a tilting of the spin axis), creating a curve on the ball.
+If the clubface is open to (more right of) the path, the ball will curve right.
+If the clubface is closed to (more left of) the path, the ball will curve left.
+
+Read those last sentences again, it is important you understand them fully. With the clubface being open to the path, the ball will slide across the face creating a sidespin. Sidespin is responsible for the ball curving further to the right. So in this above example, the ball of the unfortunate player will start 7.5 degrees right 
+of the target and curve further right. How far right will it curve? It depends on the overall distance of the shot and the club or dynamic loft of the club in hand. In general, the longer the shot is the further offline it will go.
+ 
+In this picture, we see the resultant ball flight of what happens when a player produces a square swing path, but a clubface which is open to it.
+
+The ball starts to the right and curves farther right. The opposite is also true. If a player were to make a good motion and produce a path that is straight but the clubface is 10 degree closed, the ball would start 7.5 degrees left and curve further left. As the clubface is left of the path, the ball slides across the face at impact creating a spin on the ball that curves it left through the air. This can be seen in the below images. 
+ 
+In this picture, the club path is square, but the clubface is 10 degrees closed to the path. This causes the ball to start 75% towards the clubface.
+ 
+The above image shows a birds-eye view of the resultant ball flight from a square path and a 10 degree closed face.
+I came over-the-top?
+It can get slightly trickier than what we have talked about. What I am about to explain can take your knowledge of ball flight laws beyond the realms of even most golf coaches. Just make sure that you read it thoroughly, as it is not too difficult to understand given the right amount of concentration and chewing over the information.
+As the clubface is the bigger determinant/influence of direction, it can have an overriding say on starting direction of the ball. For example, it is possible (and often demonstrated by regular golfers) to have a ball start left, even if the player has a swing path and divot aiming to the right. Likewise, it is also possible to have a swing path oriented left, and have the ball start to the right. It is all dependent on how open or closed the clubface is. Let us look at the two extremes.
+So a player has made a swing which produces a path that is 2 degrees to the left of the target. At impact, their clubface is 10 degrees to the right of the target - a very open position. In this situation, even though the player has essentially swung the club to the left, the ball w川 start right and go farther right. To be more exact, the ball will start 6 degrees right of the target, before curving farther right in the air. This is demonstrated in the picture below
+ 
+We see here a path which is 2 degrees left, a clubface which is 10 degrees right, resulting in a ball launch (start direction) of 6 degrees right. The ball will then continue to curve farther to the right.
+The reverse is also true. As an example, a player who swings the club 10 degrees to the right (in to out) with a severely closed face (10 degrees left) would see the ball start 5 degrees left and curl even more dramatically left.
+Why is this problematic? When we see a ball fly to the left or right, our instincts tend to jump to the conclusion that we have swung the club in that direction. Our subconscious, grasp of basic physics will lead us to that conclusion, even if it is not the truth. Left to its own devices (without your new found understanding of ball flight laws), our subconscious will start to make us swing further away from the direction the ball went. For example, if your ball started left and went farther left, our subconscious will try to get us to swing more to the right, especially if this mistake is repeated often. Unfortunately, this can exaggerate the fault further by creating a bigger difference between the path and the face.
+
+However, by understanding the ball flight laws to the level described here, you can determine what the actual fault was and make a more correct change. So in our example of a player who has missed the ball right through a 10 degree open clubface and a 2 degree path to the left, they should make the change of aiming the clubface more to the left at impact (and possibly swinging slightly more to the right), which would straighten out the ball flight/improve accuracy of the shot.
+This in stark contrast to what our instincts and subconscious tells us to do. With the knowledge of ball flight laws, you are more likely to pick the correct change to make, leading to faster learning and more control of your own game. Whilst I don't expect you to have fully absorbed the information on the last few pages, I strongly recommend that you bookmark it and re-read it regularly until it is fully understood and remembered. It is vitally important to your success as a golfer (or coach).
+Changing
+
+So far you have learned that direction is a combination of path and face. Clubface is the major determinant, but path will have an influence also. You have also learned that if the clubface and path are matched up, there is no curvature on the ball flight. If there is a separation between path and face however, we see sidespin and hence a curved ball flight. If the face is open to the path, the ball curves right, if the face is closed to the path, the ball curves left. Simple.
+
+The obvious ideal would be to have both the path and face aiming directly towards the target at impact, as this would produce a ball that has no curvature at all, and flies directly towards the target. It would also produce a result that lands on the same line with every club throughout the bag. This means that whether you use a driver or a wedge, the ball would finish in a straight line. This cannot be said of any technique involving a mix of open/closed path and face.
+
+Clubfiace tends to be a very changeable element in a golf swing. I would consider it more of a fine motor skill. A flick of the wrist, or a small tweak in the grip etc can make a big difference in where the clubface is at impact. Indeed, even with a good swing path of a top professional, clubface control tends to be the defining element of whether a player hits the target or not. And with professionals only hitting their targets about 60% of the time on average, it goes to show you how difficult a skill it is. Clubface at impact can change pattern from day to day (from shot to shot even), but amongst better players, faults tend to be consistent. A good player will tend to have a dominant miss, but this can also be true of complete beginners.
+
+It is much easier to see an instant change in ball flight from changing clubface at impact. There are many ways to do it, from changing grip, address position of the club, rotation of clubhead or motion changes, but this is beyond the scope of this book. Clubface changes can occur instantly, and without much effort at all. However, this high changeability comes at the cost of being notoriously difficult to refine as a skill. Unfortunately, we have identified that clubface control is the major determinant of where the golfball goes. With this skill being so difficult to master, we can see why golf itself is so difficult.
+Path, however, is much more consistent from shot to shot, but as a result is very difficult to change. I rarely see a player change their path dramatically from one swing to the next, but I often see their clubface at impact vary wildly. A player who swings out to in (or left) will tend to do it with every club in the bag. In order to change your path, you often have to make massive changes to your body motion and technique, and this can be quite disruptive for some. It will also have a knock on effect to other impact techniques, such as face angle, strike with the ground and sometimes strike with the face. This can be good or detrimental, depending on how the changes combine.
+
+There is a cheat however. Simply by aiming your body and feet line more right or left, you instantly change the swing path direction. For example, if a player's swing path is consistently 5 degrees left of the target, we could go through a big ordeal of changing the motion which would likely take months of hard work to ingrain, or we could just aim 5 degrees to the right of the target and now the path is online.
+
+Whilst obviously compensating for a fault with a 'fault5 is not ideal, the real answer is to work on both the quick fix and the 'better option,. Making slower changes on the practice ground to the path via motion changes, but using 'cheats' to achieve the best possible impact is something that even the best players in the world do. The aim of this game is to get the ball as close to the target as possible, not look our prettiest doing it. But this is a subject for hot debate, as I'm sure many people reading this will disagree. I could fill another book with arguments for why it is correct though. You just have to trust me on that one (at least until that book comes out).
+
+How can I tell if my clubface and path are good?
+It is your job, or the job of your teacher, to be able to identify what is happening at impact regarding the clubhead and balk and then make appropriate adjustments with which to improve the impact physics and hence ball flight laws. The information that a professional uses, and which you should use, comes from the ball flight patterns and feel of the shot. I will now explain the different 'clues' with which you should use to identify what has happened at impact.
+I Path left	Path Right	Face Left	Face Right I
+Ball starts left AND fade/slices	Ball starts right AND hooks/draws	Ball starts left	Ball starts right
+Ball flight tendency of a straight left pull or fades/slices	Ball flight tendency of a straight right push, or draws/hooks	Ball flight lower/stronger	Ball flight higher/w eater
+Tees tend to be angled to the left after impact	Divot aims right	Ball goes farther	Ball goes shorter
+	Tees tend to be angled to the after impact	Ball has more roll/run	Ball stops quicker
+Player struggles to hit a draw shot	Player struggles to hit a fade		
+
+So, players who have a left swing path w川 tend to either hit pulls, fades or slices. In fact, it is almost impossible for these players to hit a draw, especially with an iron. It is possible with a wood/driver when the shot is struck from the toe of the club - something we call gear effect. But the predominant pattern will be fades, slices and pulls.
+
+The reverse is also true, with a rightward (inside) swing path tending to cause draw/hook shots or straight pushes right. Fades, which start left of the target and move to the right in the air, are impossible to hit with this swing path. The only exception to this rule would be when the player hits a heel shot with a wood/driver.
+
+Important note
+It is important to be aware of where the ball starts in relation to your target. Lots of players come to me complaining of an over the top pull hook (they think the path is left). They get this sense because the ball starts left - but all we really know from this is that the clubface is left at impact and needs to be fixed.
+
+Alternatively, a player could start the ball right and hit a push slice which goes even farther right. This could obviously be indicative of a left path and a very open clubface, but could also be a rightward path and a rightward clubface. The only thing we know for sure is that the clubface is open at impact and needs to be fixed. In general
+
+If the ball starts right and goes further right, or starts left and goes further left, fix the clubface position at impact first _ at least until the shot is acceptable and roughly target bound. You can tinker with the path to refine the shape later.
+Try to notice where the ball starts in relation to the target. It is a very good indicator of where the clubface is at impact. From there, the ball will tend to curve away from the swing path. So, if your ball started left and curved right, you know that the Clubface was left (as the ball started left) and the path was even further left (as the ball curved right).
+
+And vice-versa; if you had a shot which started right and curved left in the air, we know that the clubface was right (as the ball started right) and the path was even further right (as the ball curved left). If this sounds confusing, take time to digest the below rule, as it will be the most important thing you can learn regarding golf.
+
+The starting direction of the ball is an indicator of where the clubface was looking at impact. The curvature of the ball is indicative of where the swing path is, with a ball curving in the OPPOSITE direction to the swing path.
+
+So, if the ball starts right, the face was right. If the ball starts left, the face was left.
+If the ball Curves RIGHT, the swing path was LEFT of the face.
+If the ball Curves LEFT, the swing path was RIGHT of the face.
+Re-read it over and over again until it is fully understood.
+
+Law 5 - Speed
+This is a pretty simple rule to explain and remember.
+All things being equal, a clubhead which is moving faster will hit the ball farther
+People tend to stay very consistent with their maximum speeds. Even when they feel they swing it 'out of their socks\ they normally only pick up a couple of miles per hour of speed over their normal swing. When people swing as fast as they can, they normally sacrifice some control in the previous 4 laws, which can be very detrimental.
+Most amateurs are under the belief that they swing the club too quick. But, when you compare to the professionals, amateurs are almost always swinging the club much slower. Take a look at the table below for swing speeds with a driver.
+Player	Typical swing speed
+Lady Amateur	60-70mph
+Male amateur	80-90 mph
+Female professional	90-100 mph
+Male scratch golfer	100-110mph
+Males professional	110- 120mph
+Long drive professionals	120-140mph
+
+Speed is also very important for the short shots. Pitches, chips and putts all require that the speed is controlled in order to hit the ball the desired distance. With iron shots, the distance is controlled by your normal speed and the club selection.
+In order to increase speed, one can partake in training (resistance programs/flexibility etc). We can also simply swing the club as fast as we can every day and watch out swing speed gradually creep up as our body improves its firing and sequencing over time. There are also technical elements to speed, such as using the ground effectively, positioning your body in a way which produces optimal speed etc. But this is beyond the scope of this book.
+Mid-way Re-Cap
+We are going to continue with the ball flight laws, but there is a reason for this re-cap. The above 5 laws are simply the most important ones, as they will dictate the vast majority of how good you are as a player. So, in short form, four rules to remember are;
+1.	Hit the ground in the right place (level with/slightly after where the ball lays)
+2.	Hit the sweet spot of the club
+3.	Control the path/force combination until the ball is on the target
+4.	More speed = more distance, and vice versa
+
+Rule 1 is vital with all clubs, but may not be true when the ball is teed up with some of the longer clubs. However, even irons which are slightly teed up will share this commonality. I just don't want you taking divots after the ball with the driver. It is worth mentioning that professional golfers will often take a shallow divot with a wood, even when teed up - but never with a driver. Also, no divots with putters please!
+
+Rule 2 is obvious. The main problem with this is not that people don't understand or know the rule, it's just that they have very little awareness of whether they are doing it or not. By using a dry erase marker pen and training with it, you can vastly improve your ability to not only identify whether you are hitting the correct part of the club, but you will also improve your ability to actually do it. Your brain will automatically find out how to reach your goal - you just need to use feedback (the pen) to identify the goal and how far you are from it.
+
+Regarding rule 3 - There is no perfect path and face combination. There are millions of variables which will successfully get the ball to your target. However, the bigger the difference between the path and the face, the more curvature and the less technically efficient the strike becomes (in terms of energy transfer). There will also be a bigger curvature when the face/path relationship is more separated. All professionals shape the ball to some extent, but most professionals shape the ball less than 7% of total distance (20 yards on a 300 yard drive). There are advantages to shaping the ball, but there are also disadvantages to doing it too much. Try to find the right combination which works best for you, and realize that consistency of these variables is more important than 'perfection', which is a relative term anyhow.
+
+Rule 4 - speed. All things equal, a club moving faster will hit the ball farther. Enough said. Professionals hit the ball farther because they swing it faster than you (as well as striking it more efficiently.
+Secondary laws
+We will now discuss some more ball flight laws. I have put them under the heading of "secondary laws”，as they are important, but not vital for success. They deal with improving trajectory of the shot and distance, and can also help you strike the ball better with differing lies.
+
+Law 6 - Loft
+Loft refers to the vertical component of clubface orientation. In other words, whether the clubface is pointing more up or down at impact. More loft will launch the ball higher, less loft will launch the ball lower.
+ 
+The above image shows the loft of the club at impact, also known as 'dynamic loft,
+
+The easiest way to change the loft at impact is to simply change the club. A more advanced way to manipulate the loft is by achieving a position with the club which is more forwards leaning (to lower the loft and flight), or leaning away from the target at impact (to increase the loft and flight). This can typically be achieved by moving the ball further forwards in the stance to increase loft, or moving the ball back in the stance to decrease loft. From these positions, it is easier to achieve the desired loft (although not guaranteed, due to movement errors).
+There are other ways to change the loft at impact, such as delaying the release of the club to lower the loft, or releasing wrist earlier to increase the loft at impact - but these are beyond the scope of this book - you should consult your teaching professional to find out the right methods for you.
+Manipulating the loft by getting the club to lean more forwards or backwards at impact will also have an effect on the lowest point of the swing. The further the club leans back at impact, the further back the lowest point of the swing tends to be. This can result in fat shots, where the club enters the ground too early - not abiding by Law 1.
+
+A club which leans very far forwards at impact will tend to shift the lowest point of the swing further forwards too. In order to make this work, a player would have to also lower the height of the overall swing, usually taking a deeper divot as a result. Better players can use their body through impact to pull the club upwards through impact, allowing them the benefits of lowered loft with a shallower divot than if they hadn't pulled up. This is actually a very beneficial movement for many reasons, and most players will eventually gravitate towards this way of hitting if their techniques are not constrained unnaturally. I wrote a blog post under the heading of "Low point and parametric acceleration,, which explains this idea further. You can find more info on this at www.AdamYoungGolf.com
+
+Law 7 - Angle of Attack
+Angle of attack refers to whether the club hits the ball while travelling down steeply, or shallow. Please note, this is not the same as swing plane, which most people refer to when discussing a swing's steepness or shallowness.
+Think of a ball with a nail through it. The nail could be angled down towards the ground steeply, or it could be quite level with the ground (shallow). How the club is moving through impact, in this regards, has infinitely more bearing on where the ball goes than the 'plane' of the club through the swing.
+A steeper angle of attack (or AOA) will drag the ball launch slightly lower (around about 2 degrees down for every 8 degrees of more downward AOA. The loft of the club has the deciding factor on the other 6 degrees.
+If we abide by Law number 1, we will always be hitting down on the ball. The difference is in the amount (in degrees). With a 7 iron, a steep angle of attack may be anything over 6 degrees, with a shallow angle of attack around 2 degrees. Although the difference doesn't seem great, the motions required to make that change is quite large.
+
+With a driver, we are not trying to hit the ground. In fact, as the ball is teed up it gives us opportunity to hit up on the ball with what is called a positive AOA. Research has shown that the more a golfer hits up on the ball, they hold the potential for more distance, especially when you combine this technique with appropriate club fitting. I recently showed how I could gain 55 yards of carry distance by changing my AOA with a driver. 
+ 
+The above picture shows an example of a steep angle of attack
+ 
+The above picture is an example of a shallow angle of attack 
+ 
+The above picture shows a positive angle of attack (upwards) which can be used successfully with Drivers and woods which are on tees (although is not
+necessary)
+
+Combination of loft and Angle of attack = spin loft
+The difference between the angle of attack and the loft of the club at impact is what we call spin loft. So, for example, if the club came in with 40 degrees of loft and we hit down on the ball by 5 degrees, this is 45 degrees of spin loft. As another example, if we hit a driver with 10 degrees of loft at impact and we are swinging through level with the ground (0 degree AOA) we would have 10 degrees of spin loft.
+ 
+The above picture shows the Angle of Attack and loft - the difference between the two being called 'spin・loft'
+
+In general, the higher the spin loft is, the higher the spin rate of the ball. There is a point where spin loft can become too great and the ball starts slipping over the face and very little spin is produced (imagine using a 90 degree wedge).
+Form vs function
+
+When I get a new lesson and I can see that they are struggling with direction, I often question them on why they think the ball is doing what it is doing. A player will often come to me with a slice, for example, and are frustrated with the ball going to the right all the time. When I question them on why they think it goes to the right, they usually retort with something they've read in a magazine or seen on a DVD, or heard a commentator talk about on television. Something along the lines of “I come over the top" or T don't roll my wrists through impact", are common comments. Whilst these things are on the right lines, they are not answering my question directly. The correct answer should be “My clubface is too open (to the right of) my swing path at impact”
+
+Now that the person has the correct answer, the solutions they seek can be linked to this, and multiple options for solutions can be sought after. The next question they ask me is "why", to which I often disregard the question as unnecessary. I don't care too much why the clubface is open at impact; I am more concerned with how we are going to get it more closed at impact, or how we are going to improve the path. This is the goal as such, not to roll the wrists or stop coming over the top. We are trying to improve where the clubface is when it hits the ball, so the ball flies towards the target. When the goal is clear, it is easier to improve.
+
+The fact is that, even with a poor swing path or motion, you can still get the ball to land on the target if you have good clubface control. A path that is left of the target, whilst not optimal, can produce amazing golf shots with a correct face/path combination.
+I have said before, and it is worth repeating, this book is not an instructional book on how to swing the golf club. It will not tell you positions that you should be in to play good golf. However, the information presented here is very important - more so than the movement of your swing itself. The ball does not know how you move the club or the body through space. The ball receives all the information at impact, and then moves accordingly. As a result, the ball flight laws are otherwise known as impact laws; they are the laws of physics which determine the ball flight, distance, curvature, height, spin and overall direction; basically everything that determines if it is a good shot or not. Whilst the swing movement is a big influence on these laws, it is not the place of this book to create a swing movement model for you.
+It can also be said that the reverse is true. The impact laws can be a big influence on the movement you make. What this means is that, as you improve your ability to co-ordinate impact, your movement self-organizes into more optimal positions. A book detailing a method of how to swing is largely useless due to the fact that everyone needs to swing in a different way. Every person has a different body shape, flexibility, mobility, strength profile, muscle/tendon/ligament lengths and insertions, rate coding etc. Unfortunately, most golf books offer these model swings that are either very difficult to achieve due to the above reasons.
+
+The Furyk problem
+Everyone cites Jim Furyk as the ultimate example of why swinging the club in a certain way is not necessarily important. Ironically, Jim has a lot of elements in his swing which all great players exhibit. But, more importantly, Jim and other players with strange looking swings all get a desirable impact.
+Most players work purely on the form of their swing; how the backswing looks, what their grip is like, how they are moving their body through the swing etc. Whilst that is an important element to becoming a good golfer, 
+many of these players never work directly on the functional elements. For tour players, function arises out of the sheer amount of practice that they do, and often in spite of some attempts to change their style or form.
+To become a complete player, you should work on both the form AND the function of your golf swing, but the ratio should be more heavily weighted towards function. Even when we look to changing form, it should not be to achieve a desired look for the sake of it. Just because Tiger Woods is in a certain position at the top of his backswing does not mean that is optimal for everyone.
+
+The idea that there is a perfect model swing has been pervasive in the golf industry for years, and stems from a complete misunderstanding of correlation and causation. Needless to say, simply copying the form of an elite player's golf swing will not bring about an elite function, and can even go against functionality. If a player's body or all of the intricate internal elements of their body are not the same, copying a player's swing may make you worse.
+
+Luckily, the teaching industry is changing and the better teachers are slowly moving away from form and focusing more on function of the swing, allowing form to arrange itself in the natural style of the player. Largely this has been a result of an increase in awareness and knowledge about what actually causes a ball to do what it does - the ball flight laws. But it will be many years before the entire teaching industry catches on - hence the reasoning behind this book.
+
+This is not to say that we will never work on the form of our swing. However, the target has now shifted away from aesthetics and more towards functionality. Again, it is worth repeating - if you are to make a body motion change, you should do it to improve impact in some way, as opposed to changing in order to look more like a certain player or model.
+
+As an example, a player may wish to change their grip in order to improve the way the clubface moves through the impact interval. This is a form change (grip) which has an effect on the function (clubface control and ultimately direction). This change is opposed to a purely form-for-form^-sake change, such as making a neutral grip simply because Ben Hogan had one. A neutral grip may not suit how you swing the club and move your body, and may not fit in well with all the other pieces of your swing, biology and developmental background.
+Who decided what a neutral grip is anyway? Neutral is relative. Neutral was not the same for David Duval and Paul Azinger as it was to Hogan. They had different swings, fought different problems and as a result had to come up with different solutions.
+And, the ultimate goal of Change is?
+
+The ultimate goal in golf is simply to improve how the ball is struck and flies through the air towards our target. As a result, we should mainly be concerned with improvements in impact technique. Any change that we make should be to improve impact variables in a way which either
+1.	Brings impact into functional ranges for the desired performance.
+Or
+2.	Improves the consistency and repeatability of that impact
+For example, if a player wished to hit a draw shot, they would need a swing path which is to the right of the target at impact. With a leftward swing path, it is impossible to hit a draw (barring some real off centre hits with the woods). Moving the path more rightward give the player a more functional impact to hit their desired draw shot.
+
+The other goal of change is to improve how we reach those functional impact factors more consistently. For example, a player with a 10 degree offline swing path may still be functional, but they will produce a rather large curve on the golfball. However, if they are able to repeat this every time, even if it is a 30 yard curve, they can play great golf. Ultimately, where the ball finishes is far more important than how it got there, or which route it took through the air. People often forget this. 
+Summary
+•	The Goal of Golf is to get the club/ball impact better, as this is what determines the result. The swing method, or technique, is simply your vehicle to get the desired impact.
+•	There are many different types of swing which can create successful ball/club impacts.
+•	The main impact laws are
+o Strike with the clubface (heel/toe)
+o Strike with the ground
+o Clubface control
+o Swing path
+o Speed
+•	The other factors which affect ball flight are
+o Angle of attack o Dynamic Loft
+• 'What' we achieve at impact is far more important than 'how' we achieve it. Ultimately, form should be changed only if it produces better function. Form changes should not be made to simply look more like a model, or to achieve some kind of pretty symmetrical look.
 </div>
